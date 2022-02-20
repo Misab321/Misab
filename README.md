@@ -1,11 +1,11 @@
-# Wizard-Ser
+# 𝐌𝐈𝐒𝐀𝐁𝐒𝐄𝐑
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/L3KMlgZ.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/misab_kdr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918137081652"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
@@ -18,15 +18,12 @@
     </a>
 </p>
 
-## ```HOW TO DEPLOY```
-`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
-
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+## 𝐋𝐔𝐁 𝐘𝐎𝐔 𝐀𝐋𝐋💝
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/RFAVEQC.jpeg" />
 </p>
 
 -------
